@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4d39961-038e-414e-add1-a70ff200ba78" name="Changes" comment="Style Landing Page and Create Slideshow">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/card-img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/card-img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/card-img-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-img-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/10-mega-responsive-websites-1-foods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/10-mega-responsive-websites-1-foods.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="me" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21Oh2vPMP1B7uC72Ma7b4NqVegl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="PluginDummyText.Genre" value="pirates" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4d39961-038e-414e-add1-a70ff200ba78" name="Changes" comment="" />
+      <created>1637817839635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637817839635</updated>
+      <workItem from="1637817841443" duration="8120000" />
+      <workItem from="1637868869686" duration="4906000" />
+      <workItem from="1637902531880" duration="6911000" />
+      <workItem from="1637986307391" duration="3626000" />
+      <workItem from="1638026123255" duration="598000" />
+      <workItem from="1638035165501" duration="598000" />
+      <workItem from="1638333797401" duration="598000" />
+      <workItem from="1638504873562" duration="5915000" />
+      <workItem from="1638518110460" duration="128000" />
+      <workItem from="1638518252886" duration="748000" />
+      <workItem from="1638519014451" duration="6035000" />
+      <workItem from="1638646607955" duration="558000" />
+      <workItem from="1638688651482" duration="1876000" />
+      <workItem from="1638912151144" duration="4460000" />
+      <workItem from="1639198010753" duration="190000" />
+      <workItem from="1639290589524" duration="1314000" />
+      <workItem from="1639376548611" duration="1230000" />
+      <workItem from="1639451711074" duration="411000" />
+      <workItem from="1639452128255" duration="2137000" />
+      <workItem from="1639629896356" duration="773000" />
+      <workItem from="1639710449082" duration="938000" />
+      <workItem from="1639712251436" duration="933000" />
+      <workItem from="1639798627338" duration="1000" />
+      <workItem from="1639798634924" duration="1228000" />
+      <workItem from="1640056267075" duration="598000" />
+      <workItem from="1640145266951" duration="51000" />
+    </task>
+    <task id="LOCAL-00001" summary="Style Landing Page and Create Slideshow">
+      <created>1637870883036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637870883036</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Style Landing Page and Create Slideshow">
+      <created>1637902564023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637902564023</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Style Landing Page and Create Slideshow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Style Landing Page and Create Slideshow" />
+  </component>
+</project>
