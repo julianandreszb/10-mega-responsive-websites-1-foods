@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4d39961-038e-414e-add1-a70ff200ba78" name="Changes" comment="Style Landing Page and Create Slideshow">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/card-img-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/card-img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/card-img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-img-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-img-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-img-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-img-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-img-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/10-mega-responsive-websites-1-foods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/10-mega-responsive-websites-1-foods.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="me" />
+        <entry key="$PROJECT_DIR$" value="teacher" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,6 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -104,7 +91,7 @@
       <workItem from="1639798627338" duration="1000" />
       <workItem from="1639798634924" duration="1228000" />
       <workItem from="1640056267075" duration="598000" />
-      <workItem from="1640145266951" duration="51000" />
+      <workItem from="1640145266951" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="Style Landing Page and Create Slideshow">
       <created>1637870883036</created>
@@ -120,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637902564023</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Style Landing Page and Create Slideshow">
+      <created>1640145383100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640145383100</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Style Landing Page and Create Slideshow">
+      <created>1640145596210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640145596210</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

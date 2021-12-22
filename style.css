@@ -93,11 +93,12 @@ html {
     background-color: #000000;
     position: fixed;
     top: 2rem;
-    left: 5rem;
+    left: 2rem;
     border-radius: 30rem 30rem 15rem 15rem;
     box-shadow: -0.3rem 0.3rem 0.5rem rgba(0, 0, 0, 0.5);
     cursor: pointer;
     transition: top 500ms 100ms;
+    z-index: 9;
 }
 
 .menu.change {
@@ -129,7 +130,7 @@ html {
 
     .menu {
         top: 2rem;
-
+        z-index: 9;
     }
 
     .menu.change {
