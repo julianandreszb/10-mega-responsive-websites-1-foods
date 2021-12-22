@@ -1,15 +1,19 @@
+document.querySelector('.menu').addEventListener('click', () => {
+    document.querySelectorAll('.target').forEach((element) => {
+        element.classList.toggle('change');
+    });
+});
 const icons = document.querySelectorAll('.section-1-icons i');
 
-console.debug(icons);
-
 setInterval(() => {
+    const activeIcon = document.querySelector('.section-1-icons i.active');
+    const nextIcon = activeIcon.nextElementSibling;
 
-    const icon = document.querySelector('.section-1-icons i.change');
-    icon.classList.remove('change');
+    activeIcon.classList.remove('active');
 
-    if (icon.nextElementSibling) {
-        icon.nextElementSibling.classList.add('change');
+    if (nextIcon) {
+        nextIcon.classList.add('active');
     } else {
-        icons[0].classList.add('change');
+        icons[0].classList.add('active');
     }
 }, 2000);
